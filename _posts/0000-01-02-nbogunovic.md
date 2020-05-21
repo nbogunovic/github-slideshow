@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+There is something rotten in Denmark!
 Use the left arrow to go back!
